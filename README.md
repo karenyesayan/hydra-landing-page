@@ -1,5 +1,7 @@
 ## Hydra Landing Page
 
+[Live Site](https://hydraa.vercel.app/)
+
 A fully responsive landing page built with React, JavaScript and Tailwind CSS.
 
 ## Usage
